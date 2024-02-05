@@ -2,7 +2,7 @@
 
 ### Save Files
 
-External storage is used for server configuration and saves. Mount volume or directory to /data file.
+External storage is used for server configuration and saves. Mount volume or directory to /data folder.
 
 ### systemd
 
