@@ -1,5 +1,7 @@
 ## PalWorld Dedicated Server Docker Image
 
+[![Build](https://github.com/AdamYoung1234/palworld_docker/actions/workflows/publish.yaml/badge.svg)](https://github.com/AdamYoung1234/palworld_docker/actions/workflows/publish.yaml)
+
 ### Save Files
 
 External storage is used for server configuration and saves. Mount volume or directory to /data folder.
