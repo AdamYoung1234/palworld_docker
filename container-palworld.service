@@ -23,6 +23,7 @@ ExecStart=/usr/bin/podman run \
 	--replace \
 	-v ./palworld:/data \
 	-p 8211:8211/udp \
+	-p 25575:25575 \
 	--name palworld \
 	-d docker.io/p1114501510/palworld
 ExecStop=/usr/bin/podman stop \
